@@ -1,4 +1,4 @@
-# <div align="center"><h3>I'm Tenshin<h4 style="font-size:20px">Java Developer</h4>👨‍💻</h3></div>
+# <div align="center"><h3>I'm Tenshin<h5>Java Developer</h4><h4>👨‍💻</h4></h3></div>
   
 
 <div align="center"><center style="font-style: oblique; font-size:110%; font-family:"Times New Roman", Times, serif">I'm currently learning JavaScript, HTML, CSS and still Java.</div>  
