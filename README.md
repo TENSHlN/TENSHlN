@@ -1,16 +1,33 @@
-### Hi there 👋
+# <div align="center">I'm Tenshin<center style="font-size:62%">Java Developer </center>👨‍💻</div>  
+  
 
-<!--
-**TENSHlN/TENSHlN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><center style="font-style: oblique; font-size:110%; font-family:"Times New Roman", Times, serif">I'm currently learning JavaScript, HTML, CSS and still Java.</div>  
+  
 
-Here are some ideas to get you started:
+<br/>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TENSHlN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+</div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=TENSHlN&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<details><summary> Spotify Listening </summary><div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=msvk2738qka3jz7umnb9b6aeo&cover_image=true&theme=default" /></div></details>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
