@@ -29,5 +29,3 @@
 <details><summary> Spotify Listening </summary><div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=msvk2738qka3jz7umnb9b6aeo&cover_image=true&theme=default" /></div></details>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
